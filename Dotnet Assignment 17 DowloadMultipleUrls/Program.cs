@@ -20,7 +20,8 @@ namespace Dotnet_Assignment_17_DownloadMultipleUrls
 "https://monovisionsawards.com/upload/images/1607862572jxn7zportrait_of_liza.jpg",
 
 "https://www.cartoonize.net/wp-content/uploads/2022/01/black-and-white-portraits-12-768x1024.jpg",
-"https://jsonplaceholder.typicode.com/todos/1"
+"https://jsonplaceholder.typicode.com/todos/1",
+"https://freetestdata.com/wp-content/uploads/2021/09/Free_Test_Data_100KB_PDF.pdf"
 
 
 };
